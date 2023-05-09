@@ -9,7 +9,7 @@ export default function About(){
             </div>
             <div className="w-1/2 mt-10 sm:mt-0">
                 <span className="font-bold text-2xl">About Me</span>
-                <div className="p-4">
+                <div className="sm:p-4">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit voluptate consequuntur cupiditate accusantium earum atque autem, tempore delectus ex cum et quos possimus velit dolore ratione sapiente consectetur commodi. Libero?
                 </div>
             </div>

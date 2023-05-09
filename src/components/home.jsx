@@ -21,7 +21,7 @@
     return(
         <>
         <div id='home' className="w-full h-screen flex items-center justify-center bg-gradient-to-b from-emerald-950 via-emerald-700 to-emerald-400">
-            <div className="flex md:flex-row flex-col justify-center items-center w-full md:w-3/4 bg-white bg-opacity-40 backdrop-blur-md rounded-md mt-24 md:mt-0">
+            <div className="flex md:flex-row flex-col justify-center items-center w-full md:w-3/4 h-full md:h-auto bg-white bg-opacity-40 backdrop-blur-md rounded-md mt-20 md:mt-0">
                 <div className="p-10">
                     <img className="w-52 h-52 rounded-full border-4 border-emerald-600" src={Profile} alt="profile" />
                 </div>
