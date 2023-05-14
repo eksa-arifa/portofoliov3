@@ -23,7 +23,6 @@ function Navbar(){
                 <li className="mx-2"><a href="#" className="text-emerald-600 hover:text-cyan-500">About</a></li>
                 <li className="mx-2"><a href="#" className="text-emerald-600 hover:text-cyan-500">Skill</a></li>
                 <li className="mx-2"><a href="#" className="text-emerald-600 hover:text-cyan-500">Project</a></li>
-                <li className="mx-2"><a href="#" className="text-emerald-600 hover:text-cyan-500">Achievment</a></li>
                 <li className="mx-2"><a href="#" className="text-emerald-600 hover:text-cyan-500">Contact</a></li>
             </ul>
             <a onClick={eventHandler} className='text-emerald-600 block sm:hidden p-2 rounded-md bg-slate-600 shadow-md'><FeatherIcon icon={`${navbar ? 'x' : 'menu'}`}/></a>
